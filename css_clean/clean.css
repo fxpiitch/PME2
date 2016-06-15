@@ -1,0 +1,15 @@
+.btn-homepage {
+	background-color: #72c02c;
+}
+.btn-homepage:hover {
+	background-color: #7BCF2F;	
+}
+
+.name-header {
+	font-style: rounded elegance;
+	font-size: 30px;
+	margin-top: 15px;
+}
+.me{
+	color: #72c02c;
+}

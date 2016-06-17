@@ -701,13 +701,16 @@ background-color: #717984!important;
 	text-align: center;
 }
 .pricing-mega-v1 .pricing-content li {
-	padding: 10px;
+	padding:5px;
 	font-size: 12px;
 	font-style: normal; 
-	min-height: 41px;
+	min-height: 30px;
 }
 .pricing-mega-v1 .pricing-content li i {
 	color: #72C02C; 
+}
+.pricing-mega-v1 .pricing-content li .fa-times i {
+	color:red; 
 }
 .pricing-mega-v1 .btn-group .dropdown-menu  {
 	width: 100%;
